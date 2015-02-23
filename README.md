@@ -1,7 +1,5 @@
-# Louveteau
+# Jungle Engine
 ====
-Little java game by two french students
-----
-With jSFML
+Little java game engine based on jSFML
 ---
-Nothing to tup in the readme :)
+Nothing to up in the readme :)
